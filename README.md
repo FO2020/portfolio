@@ -1,4 +1,3 @@
-# farhan.omar
- #data science
- ## Work experience
+#data science
+## Work experience
 This website is for data science and math
