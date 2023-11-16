@@ -1,13 +1,13 @@
 # data science
 ## Education
-08.2023           Western Norway University of Applied Sciences
-07.2021           The bilingual test (Norwegian-Kurdish)
-8.2018–10.2020    Master in applied and computational mathematics. – Universitetet i Bergen
-8.2017–7.2018     One-year study In mathematicsand natural sciences – Universityof Bergen
+08.2023           Western Norway University of Applied Sciences\
+07.2021           The bilingual test (Norwegian-Kurdish)\\
+8.2018–10.2020    Master in applied and computational mathematics. – Universitetet i Bergen\\
+8.2017–7.2018     One-year study In mathematicsand natural sciences – Universityof Bergen\\
 3.2017–6.2017     IELETS ACADEMIC – Folkeuniversitetet i Bergen
-12.2016–1.2017    Test of Norwegian – advanced level (Bergenstesten) – Folkeuniversitetet i Bergen
-9.2006–9.2011     Bachelor in petroleum engineering – Al-Baath University
-8.2002–7.2006     Secondary gradecerticate-Scientifc branch – Fayez Mansour Secondary school
+12.2016–1.2017    Test of Norwegian – advanced level (Bergenstesten) – Folkeuniversitetet i Bergen\\
+9.2006–9.2011     Bachelor in petroleum engineering – Al-Baath University\\
+8.2002–7.2006     Secondary gradecerticate-Scientifc branch – Fayez Mansour Secondary school\\
 ## Work experience
 8.2019 Privateteacher in Mathematics, Superprof, Norway
 Freelance work
