@@ -3,10 +3,10 @@
 ## Education
 
 - **August 2023**
-  - *Western Norway University of Applied Sciences*
+  - *Practical-pedagogical education (annual unit) -Western Norway University of Applied Sciences*
 
 - **July 2021**
-  - *Bilingual Test (Norwegian-Kurdish)*
+  - *Bilingual Test (Norwegian-Kurdish)-OsloMet*
 
 - **August 2018 - October 2020**
   - *Master's in Applied and Computational Mathematics, Universitetet i Bergen*
